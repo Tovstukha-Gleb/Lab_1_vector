@@ -2,7 +2,7 @@
 #include <string.h>
 using namespace std;
 template <class T1>
-class Vector
+class Vector  //class for 3d vector
 {
 private:
 	T1* pointX;
